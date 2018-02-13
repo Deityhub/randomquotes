@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  background: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-5-full.jpg");
+  background-repeat: no-repeat;
+  color: white;
+  
+}
+#author{
+    text-align: center;
+}
+.container{
+    padding: 5px;
+  text-align: center;
+}
+.quoteBody{
+    padding: 5px;
+    margin: 20px 20px;
+}
+.buttons{
+    margin-top: 5px;
+    padding: 10px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
